@@ -16,13 +16,13 @@ O objetivo desta análise é compreender os padrões de comportamentos dos clien
 
 ![Pipeline](Pipeline.png)
 
-* Coleta de Dados: Nesta seção, é realizado a coleta dos dados necessários para a análise. Utilizaremos a biblioteca pyodbc para estabelecer uma conexão com o banco de dados SQL Server e executar uma consulta SQL que retorna informações detalhadas sobre os clientes que solicitaram a desconexão.
+* **Coleta de Dados:** Nesta seção, é realizado a coleta dos dados necessários para a análise. Utilizaremos a biblioteca pyodbc para estabelecer uma conexão com o banco de dados SQL Server e executar uma consulta SQL que retorna informações detalhadas sobre os clientes que solicitaram a desconexão.
 
-* Processamento: O processamento de dados é uma etapa crucial para garantir que os dados estejam no formato adequado para as análises e modelagens que vão ser futuramente realizadas.
+* **Processamento:** O processamento de dados é uma etapa crucial para garantir que os dados estejam no formato adequado para as análises e modelagens que vão ser futuramente realizadas.
 
-* Análises: Realização de análises descritivas e exploratórias dos dados coletados e processados nas etapas anteriores. As análises descritivas e exploratórias são fundamentais para entender melhor os dados, identificar padrõres e gerar insights iniciais que podem orientar as próximas etapas do projeto.
+* **Análises:** Realização de análises descritivas e exploratórias dos dados coletados e processados nas etapas anteriores. As análises descritivas e exploratórias são fundamentais para entender melhor os dados, identificar padrõres e gerar insights iniciais que podem orientar as próximas etapas do projeto.
 
-* Modelagem e Aplicação de Técnicas de Machine Learning: Foco na aplicação do algoritmo de clusterização K-Means a partir dos dados previamente tratados e analisados. Além disso, são utilizadas métricas de avaliação de modelos de clusterização. Esta etapa visa segmentar os dados de forma significativa, contribuindo para uma melhor interpretação dos padrões encontrados.
+* **Modelagem e Aplicação de Técnicas de Machine Learning:** Foco na aplicação do algoritmo de clusterização K-Means a partir dos dados previamente tratados e analisados. Além disso, são utilizadas métricas de avaliação de modelos de clusterização. Esta etapa visa segmentar os dados de forma significativa, contribuindo para uma melhor interpretação dos padrões encontrados.
 
 
 ## Principais Insights ✅
