@@ -35,6 +35,12 @@ O objetivo desta análise é compreender os padrões de comportamentos dos clien
 
 * A retenção tem impacto direto sobre o ciclo de vida dos clientes, mas deve ser acompanhada de melhorias no serviço, suporte e comunicação.
 
+* A análise comprova que o churn não é um evento aleatório, mas altamente associado ao tempo de vida do cliente na base. A partir dos insights, torna-se necessário a empresa investir na experiência inicial do cliente, atuar de forma proativa na retenção e no desenvolvimento de estratégias comerciais e operacionais extremamente eficazes para retenção
+
+* A retenção é mais efetiva em estágios iniciais do ciclo do cliente.
+
+* Clientes antigos têm menor propensão à retenção, demonstrando a necessidade de estratégias robustas de relacionamento de longo prazo.
+
 
 ## Conclusão ✍🏽
 
