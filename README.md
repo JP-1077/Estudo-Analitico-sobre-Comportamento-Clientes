@@ -1,4 +1,4 @@
-# Estudo Analítico sobre Comportamento Clientes em aspectos de Desconexão e Retenção
+# Estudo Analítico sobre Comportamento Clientes
 
 ## Objetivo 🎯
 
